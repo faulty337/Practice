@@ -12,6 +12,8 @@ public class gitActionTesController {
 
     @Value("${secret.key}")
     private String key;
+    
+    //test
 
 
     @GetMapping("/secret")
