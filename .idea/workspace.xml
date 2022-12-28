@@ -5,49 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c88c839-7298-4f6d-ad4a-ff62f3dd5a15" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/ResponseMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/TimeStamped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/exception/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/exception/ErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/gitActionTesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/mvcTest/service/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-security.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Spring-test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/src/main/java/com/example/kakaologin/Controller/MainController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/src/main/java/com/example/kakaologin/KakaologinApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/src/main/java/com/example/kakaologin/Service/OauthService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/src/main/java/com/example/kakaologin/Service/Userservice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/src/main/java/com/example/kakaologin/component/ApiKey.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/src/main/resources/templates/loginpage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaologin/kakaologin/src/test/java/com/example/kakaologin/KakaologinApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/src/main/java/com/example/springtest/SpringtestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/SpringTestApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/src/main/java/com/example/springtest/mvcTest/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/mvcTest/controller/MvcTestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/src/main/java/com/example/springtest/mvcTest/dto/TestRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/mvcTest/dto/TestRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/src/main/java/com/example/springtest/mvcTest/dto/TestResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/mvcTest/dto/TestResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/src/test/java/com/example/springtest/SpringtestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/springtest/SpringTestApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,19 +38,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/Spring-test/src/main/java/com/example/springtest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "spring.configuration.checksum": "3aa71cf8b128683033e1a8b77df86ab3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Spring-test/src/main/java/com/example/springtest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3aa71cf8b128683033e1a8b77df86ab3&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Spring-test\src\main\java\com\example\springtest" />
@@ -116,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1672189094571</updated>
       <workItem from="1672189097080" duration="31000" />
-      <workItem from="1672189543081" duration="1494000" />
+      <workItem from="1672189543081" duration="2195000" />
+      <workItem from="1672201439709" duration="1306000" />
     </task>
     <servers />
   </component>
