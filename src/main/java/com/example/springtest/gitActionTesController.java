@@ -21,4 +21,9 @@ public class gitActionTesController {
         ResponseMessage<String> responseMessage = new ResponseMessage<>("Success", 200, key);
         return new ResponseEntity<>(responseMessage, HttpStatus.valueOf(responseMessage.getStatusCode()));
     }
+    @GetMapping("/secret/test")
+    public ResponseEntity<ResponseMessage> getSecretKeytest(){
+        ResponseMessage<String> responseMessage = new ResponseMessage<>("Success", 200, key);
+        return new ResponseEntity<>(responseMessage, HttpStatus.valueOf(responseMessage.getStatusCode()));
+    }
 }
