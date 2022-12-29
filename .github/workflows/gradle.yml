@@ -35,4 +35,4 @@ jobs:
       
     - name: Docker build
       run: |
-       docker build -t spring-cicd
+       docker build -t spring-cicd .
